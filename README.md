@@ -1,7 +1,11 @@
 Instructions:
-1. Unzip "Project" folder
-2. Open folder in IDE of choice
-3. Compile and Run "A2.java"
+1. Unzip "Final" folder
+2. Unzip "A4" folder
+3. Open folder in IDE of choice
+4. Compile and Run "A4.java"
+
+New:
+Uses a JTable and JTree to display nodes in the form of shapes drawn on the screen by the user. JTable to track shape instances and their location on-screen, JTree to display a model of nested shapes.
 
 Range of Shapes:
 - RECTANGLE
