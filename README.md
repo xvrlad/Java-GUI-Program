@@ -7,7 +7,14 @@ Instructions:
 New (Updated June 12, 2021):
 Uses a JTable and JTree to display nodes in the form of shapes drawn on the screen by the user. JTable to track shape instances and their location on-screen, JTree to display a model of nested shapes.
 
-Range of Shapes:
+Range of Shapes ("Final") folder:
+- RECTANGLE
+- XRECTANGLE (A rectangle with diagonals in it)
+- SQUARE
+- OVAL
+- NESTED (a rectangle that contains all other shapes and itself within it)
+
+Range of Shapes ("Project") folder:
 - RECTANGLE
 - XRECTANGLE (A rectangle with diagonals in it)
 - SQUARE
